@@ -1,5 +1,3 @@
-// script.js
 function saludar() {
-  alert("¡Hola! Gracias por visitar mi web 😊");
+  alert("¡Hola! Esta página está funcionando.");
 }
-window.onload = saludar;
